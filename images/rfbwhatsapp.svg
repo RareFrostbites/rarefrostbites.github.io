@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="210mm"
+   viewBox="0 0 210 210"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="whatsapp.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title1693">WhatsApp</title>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.94316065"
+     inkscape:cx="397.59929"
+     inkscape:cy="391.76783"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <filter
+       id="a"
+       width="1.1146948"
+       height="1.1141825"
+       x="-0.057347414"
+       y="-0.05709127"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="3.531"
+         id="feGaussianBlur7" />
+    </filter>
+    <linearGradient
+       id="b"
+       x1="85.915001"
+       x2="86.535004"
+       y1="32.567001"
+       y2="137.092"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2697661,0,0,1.2697661,-6.2410331,-6.4549801)">
+      <stop
+         offset="0"
+         stop-color="#57d163"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#23b33a"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#b"
+       id="linearGradient1576"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(4.799116,0,0,4.799116,-23.588157,-24.396775)"
+       x1="85.915001"
+       y1="32.567001"
+       x2="86.535004"
+       y2="137.092" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1675">
+      <rect
+         style="fill:#4c4d4f;fill-opacity:1;fill-rule:evenodd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+         id="rect1168"
+         width="210"
+         height="210"
+         x="0"
+         y="0" />
+      <path
+         fill="url(#linearGradient1780)"
+         d="m 104.46224,25.577392 c -42.833023,0 -77.666494,34.820802 -77.681756,77.620808 a 77.430334,77.430334 0 0 0 11.871046,41.31184 l 1.847515,2.93572 -7.845882,28.64463 29.390026,-7.70618 2.837909,1.68117 c 11.919325,7.07385 25.585815,10.81587 39.522732,10.82345 h 0.0288 c 42.8,0 77.63347,-34.82459 77.64998,-77.62714 A 77.138289,77.138289 0 0 0 159.36014,48.343054 77.138289,77.138289 0 0 0 104.46181,25.577392 Z"
+         id="path16"
+         style="stroke-width:1.26976" />
+      <path
+         id="path18"
+         style="fill:url(#linearGradient1576);stroke-width:4.79909"
+         d="M 394.81641 96.669922 C 232.92871 96.670983 101.27448 228.27787 101.2168 390.04102 A 292.65008 292.65008 0 0 0 146.08398 546.17969 L 153.06641 557.2793 L 123.41406 665.53906 L 234.49414 636.41211 L 245.2207 642.76758 C 290.27012 669.50339 341.92269 683.64108 394.59766 683.66992 L 394.70508 683.66992 C 556.46886 683.66992 688.12315 552.04881 688.18555 390.27539 A 291.54629 291.54629 0 0 0 602.30664 182.70898 A 291.54629 291.54629 0 0 0 394.81836 96.669922 L 394.81641 96.669922 z M 269.69141 227 L 286.60352 227.20703 C 292.88557 227.46133 299.84395 227.75912 306.45703 242.44922 L 306.45703 242.45312 C 314.2988 259.9028 331.441 303.53692 333.64844 307.94727 C 335.85588 312.35762 337.31978 317.52137 334.38281 323.40039 C 331.44566 329.27922 329.99223 332.95989 325.57227 338.10938 C 321.1523 343.25868 316.28951 349.60815 312.33008 353.5625 C 307.90467 357.95852 303.29892 362.73886 308.45312 371.56445 C 313.60733 380.39007 331.31185 409.27027 357.53906 432.65625 C 391.24798 462.71321 419.65798 472.03299 428.48828 476.44336 C 437.31862 480.85369 442.45793 480.11522 447.60742 474.22656 C 452.75691 468.33813 469.64669 448.47483 475.53516 439.64453 C 481.42358 430.81401 487.30218 432.27801 495.38867 435.22461 C 503.47512 438.17136 546.84334 459.51249 555.67383 463.92773 C 564.50413 468.34283 570.38909 470.53616 572.5918 474.22656 C 574.79473 477.9172 574.78873 495.56741 567.44141 516.16992 C 560.09393 536.77258 524.07707 556.64602 507.89453 558.11523 C 491.71184 559.58373 476.54704 565.4289 402.02148 536.03906 C 312.34038 500.67429 255.71032 408.75662 251.30469 402.86328 C 246.89923 396.96994 215.2832 355.02508 215.2832 311.61719 C 215.2832 268.20911 238.08446 246.8676 246.16602 238.03711 C 254.24776 229.2068 263.80767 227 269.69141 227 z "
+         transform="scale(0.26458333)" />
+    </g>
+  </g>
+  <metadata
+     id="metadata1691">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>WhatsApp</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
