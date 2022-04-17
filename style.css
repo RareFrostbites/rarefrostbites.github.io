@@ -1340,7 +1340,7 @@ hr {
 }
 .body .rfbstore_rectangle img {
   height: 55px !important;
-  width: 100px !important;
+  min-width: 100px !important;
   margin: 10px;
 }
 .body .rfbstore_rectangle .description {
