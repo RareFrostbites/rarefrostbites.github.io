@@ -744,7 +744,7 @@ hr {
 }
 .popup .ui {
   display: flex;
-  height: 100px;
+  height: 150px;
   width: 95%;
   margin-left: auto;
   margin-bottom: 10px;
@@ -756,7 +756,7 @@ hr {
 }
 .popup .ui a {
   display: flex;
-  height: 100px;
+  height: 150px;
   width: 100%;
   text-decoration: none;
   flex-direction: row;
@@ -764,7 +764,7 @@ hr {
 }
 .popup .ui .img {
   display: flex;
-  height: 100%;
+  height: 100px;
   width: 75px;
   margin-left: 15px;
   margin-right: 15px;
@@ -776,8 +776,8 @@ hr {
 }
 .popup .ui .txt {
   display: flex;
-  width: 200px;
-  height: 80px;
+  width: 100%;
+  height: 100px;
   margin-right: auto;
   flex-direction: column;
   align-items: flex-start;
