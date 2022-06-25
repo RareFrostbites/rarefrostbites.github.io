@@ -757,6 +757,7 @@ hr {
 .popup .ui a {
   display: flex;
   height: 100px;
+  width: 100%;
   text-decoration: none;
   flex-direction: row;
   align-items: center;
