@@ -832,7 +832,7 @@ hr {
 }
 .body .apply h5 {
   position: absolute;
-  top: 30%;
+  top: 40%;
   right: 10%;
   left: 10%;
 }
@@ -840,17 +840,17 @@ hr {
   position: absolute;
   top: 70%;
   right: 5%;
-  color: #000000;
-  background-color: #50faee;
+  color: #ffffff;
+  background-color: #000ec6;
   font-size: 16px;
   padding: 10px 20px;
   border-radius: 5px;
-  border: 1px solid #50faee;
+  border: 1px solid #000000;
   transition-duration: .2s;
 }
 .body .apply a button:hover {
-  background-color: #0c958c;
-  border: 1px solid #024c47;
+  background-color: #000fdf;
+  border: 1px solid #666666;
   color: #ffffff;
 }
 .body .rfb-store {
