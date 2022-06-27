@@ -1220,6 +1220,10 @@ hr {
   display: flex;
   align-items: center;
   overflow-x: scroll;
+  scrollbar-width: none;
+}
+.body .rfbstore-header::-webkit-scrollbar {
+  height: 0px;
 }
 .body .rfbstore-header .rfb-maps {
   border: 2px solid #000;
