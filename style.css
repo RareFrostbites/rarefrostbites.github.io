@@ -1820,7 +1820,7 @@ hr {
 .body .roles .roles_choose {
   height: 90px;
   border-top: .5px solid #575783;
-  border-bottom: .5px solid #57783;
+  border-bottom: .5px solid #575783;
   transition-duration: .5s;
   animation: down_opac 1s;
   animation-fill-mode: forwards;
@@ -1843,7 +1843,7 @@ hr {
 .body .rfb_tip .rfb_tip_choose {
   height: 90px;
   border-top: .5px solid #575783;
-  border-bottom: .5px solid #57783;
+  border-bottom: .5px solid #575783;
   transition-duration: .5s;
   animation: down_opac 1s;
   animation-fill-mode: forwards;
@@ -1876,7 +1876,7 @@ hr {
 .body .rfb_ws .rfb_ws_choose {
   height: 90px;
   border-top: .5px solid #575783;
-  border-bottom: .5px solid #57783;
+  border-bottom: .5px solid #575783;
   transition-duration: .5s;
   animation: down_opac 1s;
   animation-fill-mode: forwards;
