@@ -1,10 +1,3 @@
-window.onresize = function() {
-  document.body.height = window.innerHeight;
-}
-window.onresize();
-
-
-
 var isSet = function (e) {
   return typeof e !== "undefined";
 };
@@ -212,3 +205,7 @@ function readMoreLess2() {
 
 
 
+window.onresize = function() {
+  document.body.height = window.innerHeight;
+}
+window.onresize();
