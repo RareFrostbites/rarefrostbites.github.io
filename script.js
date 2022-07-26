@@ -207,7 +207,7 @@ function readMoreLess2() {
 
 function resetHeight(){
   // reset the body height to that of the inner browser
-  document.body.style.height = window.innerHeight + "-50px";
+  document.getElementById("body").style.height = window.innerHeight + "-50px";
 }
 // reset the height whenever the window's resized
 window.addEventListener("resize", resetHeight);
