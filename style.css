@@ -739,6 +739,9 @@ hr {
   position: fixed;
   width: 100%;
   min-height: 100vh;
+  height: -moz-available;
+  height: -webkit-fill-available;
+  height: fill-available;
   background-color: #00000052;
   z-index: 2147483646;
   align-items: flex-end;
@@ -817,9 +820,6 @@ hr {
 
 .body {
   margin-top: 66px;
-  height: -moz-available;
-  height: -webkit-fill-available;
-  height: fill-available;
   min-height: calc(75vh - 70px);
   margin-right: auto;
   margin-left: auto;
